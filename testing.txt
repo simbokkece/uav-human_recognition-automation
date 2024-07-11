@@ -1,0 +1,11 @@
+areaTemperatureBegin=1
+areaID=1
+temperatureUnit=0
+maxTemperatureX=73
+maxTemperatureY=42
+maxTemperature=39.258068
+minTemperatureX=71
+minTemperatureY=61
+minTemperature=32.101154
+aveTemperature=35.274372
+areaTemperatureEnd
